@@ -39,6 +39,11 @@ label {
   display: block;
 }
 
+input {
+  font-family: times;
+  padding: 0.917em; /* 22 / 24 = 0.917*/
+  background-color: #d1d1d1;
+}
 /* Layout Styles */
 
 /* Modular Styles */
