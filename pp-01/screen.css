@@ -22,6 +22,16 @@ body {
   padding-bottom: 1.25em; /* 30 / 24 = 1.25 */
 }
 
+li {
+  padding-top: 0.25em;
+  padding-bottom: 0.917em; /* 22 / 24 = 0.917*/
+}
+
+ul {
+  text-align: center;
+  padding-top: 1.25em;
+  padding-bottom: 0.25em;
+}
 /* Layout Styles */
 
 /* Modular Styles */
