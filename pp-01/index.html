@@ -7,7 +7,26 @@
   <link rel="stylesheet" media="screen" href="screen.css" />
 </head>
 <body>
-
+  <main>
+    <form action="#null" method="get" id="contact-form">
+      <ol>
+        <li>
+          <label for="email">Email:</label>
+          <input placeholder="you@example.com" type="email" id="email" name="user_mail" />
+        </li>
+        <li>
+          <label for="phone">Phone number:</label>
+          <input placeholder="555-555-5555" type="tel" id="phone" name="user_telephone" />
+        </li>
+        <li>
+          <label for="dob">Date of Birth:</label>
+          <input placeholder="mm/dd/yyyy" type="date" id="dob" name="user_dob" />
+        </li>
+      </ol>
+      <input type="submit" value="Submit!" />
+    </form>
+  </main>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="site.js"></script>
 </body>
 </html>
