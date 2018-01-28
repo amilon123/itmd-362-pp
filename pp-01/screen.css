@@ -32,6 +32,13 @@ ul {
   padding-top: 1.25em;
   padding-bottom: 0.25em;
 }
+
+label {
+  padding-bottom: 1.25em; /* 30 / 24 = 1.25 */
+  padding-top: 0.25em;
+  display: block;
+}
+
 /* Layout Styles */
 
 /* Modular Styles */
