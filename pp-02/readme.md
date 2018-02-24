@@ -24,11 +24,12 @@ on a group member’s computer. **That will be your shared repository for Projec
 
 3. List the names of your group members here:
 
-Tyler Tomasello
-Dartor Bolo
-Guzel Nasybullina
+ Tyler Tomasello
+ Dartor Bolo
+ Guzel Nasybullina
 
 4. Copy and paste the URL for your group’s GitHub organization here:
+
 https://github.com/Tech-Warriors
 
 5. Copy and paste the URL for your group’s shared repository here:
