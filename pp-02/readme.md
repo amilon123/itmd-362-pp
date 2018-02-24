@@ -39,6 +39,7 @@ https://github.com/Tech-Warriors/itmd-362-project2
 was used to create the GitHub organization for your project).
 
 Write the URL for your personal fork of the repository here:
+
 https://github.com/amilon123/itmd-362-project2-1
 
 7. Each member of the group should clone their forked copy of the repository to his/her computer.
@@ -46,6 +47,7 @@ Once you have cloned the forked copy, you should add the *group* repository as a
 `git remote add group` followed by the URL for your group’s repository.
 
 Write or paste the output of `git remote -v` from your copy of the forked repository here:
+
 group   https://github.com/Tech-Warriors/itmd-362-project2 (fetch)
 group   https://github.com/Tech-Warriors/itmd-362-project2 (push)
 origin  git@github.com:amilon123/itmd-362-project2-1.git (fetch)
