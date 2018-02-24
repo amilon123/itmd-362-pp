@@ -63,4 +63,5 @@ repository. Each group member should review the request before it is merged, and
 group repository to have a complete, up-to-date `README.md` file.
 
 Write the URL of your pull request here:
-https://github.com/Tech-Warriors/itmd-362-project2/pull/2 
+
+https://github.com/Tech-Warriors/itmd-362-project2/pull/2
