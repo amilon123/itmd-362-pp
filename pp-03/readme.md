@@ -48,4 +48,11 @@ who are beginning to learn the alphabet.
 4. A custom color palette for advertising a course on cybersecurity
 
 Your Palette URL: http://paletton.com/#uid=c3y3+3L3k1kqvZDhDUfhDUfRLvZRLvZkuCPPqRRnqRRnDRuuDRuukpsfMmLjgmLjgs487s487k7IZE3A+K3A+KdpRgdpRg
-Your Rationale: Every time I see something associated with cybersecurity, it revolves around the color blue or green. I have noticed that the shade of blue cybersecurity advertising takes on is lighter. Therefore, I took the more traditional route with using blue because I feel that it really is the best color to use since it is associated with security. I made a powder blue instead of the aqua blue to give the students assessing the course a break away from the bolder blues. I thought that the course site could take on a dark on light approach to make the content less intimidating.
+Your Rationale: Every time I see something associated with cybersecurity, it revolves around the
+color blue or green. I have noticed that the shade of blue cybersecurity
+advertising takes on is lighter. Therefore, I took the more traditional route
+with using blue because I feel that it really is the best color to use since it
+is associated with security. I made a powder blue instead of the aqua blue to
+give the students assessing the course a break away from the bolder blues. I
+thought that the course site could take on a dark on light approach to make the
+content less intimidating.
