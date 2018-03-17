@@ -37,7 +37,7 @@ Gardens.
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL: http://paletton.com/#uid=51+140kNtM7HhYrHhYrFUodFUod
+Your Palette URL: http://paletton.com/#uid=51+140kNtM7HhYrHhYrFUodFUod  
 Your Rationale: Again, I conducted a bit of research to color theory and what I found is that
 orange increases alertness, yellow maintains attention, and green adds calmness.
 Therefore, I dedicated the color palette to those three colors. I made all three
@@ -47,7 +47,7 @@ who are beginning to learn the alphabet.
 
 4. A custom color palette for advertising a course on cybersecurity
 
-Your Palette URL: http://paletton.com/#uid=c3y3+3L3k1kqvZDhDUfhDUfRLvZRLvZkuCPPqRRnqRRnDRuuDRuukpsfMmLjgmLjgs487s487k7IZE3A+K3A+KdpRgdpRg
+Your Palette URL: http://paletton.com/#uid=c3y3+3L3k1kqvZDhDUfhDUfRLvZRLvZkuCPPqRRnqRRnDRuuDRuukpsfMmLjgmLjgs487s487k7IZE3A+K3A+KdpRgdpRg  
 Your Rationale: Every time I see something associated with cybersecurity, it revolves around the
 color blue or green. I have noticed that the shade of blue cybersecurity
 advertising takes on is lighter. Therefore, I took the more traditional route
