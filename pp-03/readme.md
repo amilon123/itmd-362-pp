@@ -12,8 +12,14 @@ Opt for the Paletton Preview mode Default with Text http://paletton.com/
 1. A monochromatic color palette for a site introducing a new console gaming platform
 
 Your Palette URL: http://paletton.com/#uid=13v0u0koKDhbuVXbuVXN4r9N4r9
-Your Rationale: Typically game consoles are advertised with a dark theme for the
-background. However, I have noticed that advertising methods have started to adopt a lighter palette. Therefore, I tried to find a balance between the two different approaches in designing for video games. I chose to create a blue monochromatic color palette because of its association with inspiration, imagination, and freedom. The colors are very unintimidating to a point where it creates an environment of order and calmness. A new console gaming platform would sell itself next to these colors.
+Your Rationale: Typically game consoles are advertised with a dark theme for the background.
+However, I have noticed that advertising methods have started to adopt a lighter
+palette. Therefore, I tried to find a balance between the two different
+approaches in designing for video games. I chose to create a blue monochromatic
+color palette because of its association with inspiration, imagination, and
+freedom. The colors are very unintimidating to a point where it creates an
+environment of order and calmness. A new console gaming platform would sell
+itself next to these colors.
 
 2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
 
