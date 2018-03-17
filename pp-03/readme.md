@@ -24,7 +24,16 @@ itself next to these colors.
 2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
 
 Your Palette URL: http://paletton.com/#uid=55r0r1klSsBvjtdvjtdespAespAklSsBvjtdvjtdespAespAk0AUu13J613J600++00++
-Your Rationale: I looked at the Chicago Botanical Gardens website to see what kind of color palettes they had in place, but I wasn't that impressed with their ability to push the envelope. Therefore, I took it upon myself to look at springtime photos on Google images for some inspiration. I stumbled across a beautiful picture of a garden filled with fuchsia, orange, and purple tulips. I felt that the purple was too dark for the springtime theme, so I did not include it in the palette. I kept the orange and made the fuchsia softer, which ended up to look more pink. I felt that the palette was still not light enough, so I added a dull shade of white to stay consistent with the website's background for the Chicago Botanical Gardens.
+Your Rationale: I looked at the Chicago Botanical Gardens website to see what kind of color
+palettes they had in place, but I wasn't that impressed with their ability to
+push the envelope. Therefore, I took it upon myself to look at springtime photos
+on Google images for some inspiration. I stumbled across a beautiful picture of
+a garden filled with fuchsia, orange, and purple tulips. I felt that the purple
+was too dark for the springtime theme, so I did not include it in the palette. I
+kept the orange and made the fuchsia softer, which ended up to look more pink. I
+felt that the palette was still not light enough, so I added a dull shade of
+white to stay consistent with the website's background for the Chicago Botanical
+Gardens.
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
