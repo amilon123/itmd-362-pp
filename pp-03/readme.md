@@ -11,7 +11,7 @@ Opt for the Paletton Preview mode Default with Text http://paletton.com/
 
 1. A monochromatic color palette for a site introducing a new console gaming platform
 
-Your Palette URL: http://paletton.com/#uid=13v0u0koKDhbuVXbuVXN4r9N4r9
+Your Palette URL: http://paletton.com/#uid=13v0u0koKDhbuVXbuVXN4r9N4r9  
 Your Rationale: Typically game consoles are advertised with a dark theme for the background.
 However, I have noticed that advertising methods have started to adopt a lighter
 palette. Therefore, I tried to find a balance between the two different
