@@ -38,7 +38,12 @@ Gardens.
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
 Your Palette URL: http://paletton.com/#uid=51+140kNtM7HhYrHhYrFUodFUod
-Your Rationale: Again, I conducted a bit of research to color theory and what I found is that orange increases alertness, yellow maintains attention, and green adds calmness. Therefore, I dedicated the color palette to those three colors. I made all three of them bright and pigmented. I didn't want to wash out the colors because of the fact that I wanted the orange and yellow to really pop, especially for kids who are beginning to learn the alphabet.
+Your Rationale: Again, I conducted a bit of research to color theory and what I found is that
+orange increases alertness, yellow maintains attention, and green adds calmness.
+Therefore, I dedicated the color palette to those three colors. I made all three
+of them bright and pigmented. I didn't want to wash out the colors because of
+the fact that I wanted the orange and yellow to really pop, especially for kids
+who are beginning to learn the alphabet.
 
 4. A custom color palette for advertising a course on cybersecurity
 
