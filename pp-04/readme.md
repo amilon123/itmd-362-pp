@@ -54,7 +54,7 @@ button would be dark grey. I would also incorporate the skyline because I
 think it is too much of a powerful photo to get rid of.
 * Sketch:  guideline2
 
-* HCI Guidline Three (URL):  https://material.io/guidelines/patterns/errors.html#errors-user-input-errors
+* HCI Guideline Three (URL):  https://material.io/guidelines/patterns/errors.html#errors-user-input-errors
 * How you implemented it in your sketch:  IIt's page is notorious for taking
 people to a completely different screen when user information is invalid,
 which is completely annoying to practically everyone. Therefore, I thought
