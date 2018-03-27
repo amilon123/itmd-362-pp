@@ -27,7 +27,7 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-### Android
+### Redesign with Android
 
 * HCI Guidline One (URL):  https://material.io/guidelines/components/bottom-navigation.html#bottom-navigation-usage
 * How you implemented it in your sketch:  The main issue I have with IIT's login
