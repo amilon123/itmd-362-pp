@@ -29,7 +29,7 @@ Small commits to your Production Problems repository that include:
 
 ### Redesign with Android
 
-* HCI Guidline One (URL):  https://material.io/guidelines/components/bottom-navigation.html#bottom-navigation-usage
+* HCI Guideline One (URL):  https://material.io/guidelines/components/bottom-navigation.html#bottom-navigation-usage
 * How you implemented it in your sketch:  The main issue I have with IIT's login
 page is that it's extremely messy! There is too much information and, as a
 result, the site has little-to-no control over the content. There is also no
