@@ -10,8 +10,7 @@ also practice submitting a pull request.
 you will use to communicate (e.g., your own Basecamp project [NOT the class-wide one], Slack,
 Trello, or something else).
 
-Write the name of the service your group has decided to use:
-GroupMe(conversation) and Trello(assigned tasks)
+Write the name of the service your group has decided to use:  GroupMe(conversation); Trello(assigned tasks); Google hangouts(remote meetings)
 
 2. In your project coordination software of choice, discuss and choose one member who will create
 the free GitHub Organization account for your team. That member can click the + (plus sign) next to
