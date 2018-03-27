@@ -42,7 +42,7 @@ other top-level views. I was consistent with that design when drawing for tablet
 and desktop scales by incorporating side navigation.
 * Sketch:  guideline1
 
-* HCI Guidline Two (URL):  https://material.io/guidelines/style/color.html#color-color-system
+* HCI Guideline Two (URL):  https://material.io/guidelines/style/color.html#color-color-system
 * How you implemented it in your sketch:  IIT's site is really blan and boring,
 especially for a college of technology. I stuck with the Android guideline for
 customizing the site's color scheme to match the brand's colors. Therefore, I
